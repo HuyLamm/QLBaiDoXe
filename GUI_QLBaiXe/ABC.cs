@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GUI_QLBaiXe
 {
-    public partial class Form1 : Form
+    public partial class ABC : Form
     {
-        public Form1()
+        public ABC()
         {
             InitializeComponent();
         }

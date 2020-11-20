@@ -1,6 +1,6 @@
 ﻿namespace GUI_QLBaiXe
 {
-    partial class Form1
+    partial class ABC
     {
         /// <summary>
         /// Required designer variable.
